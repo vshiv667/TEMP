@@ -15,6 +15,7 @@ library(scales)
 library(GGally)
 library(sna)
 library(network)
+#ufheuofheoifeoi
 
 ###############################################################################
 # KRACKHARDT
